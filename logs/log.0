@@ -1,0 +1,178 @@
+янв 17, 2018 2:14:18 PM MainClass main
+INFO: Application started
+янв 17, 2018 2:14:18 PM FileHelper parseFile
+INFO: File in7.txt successfully parsed
+янв 17, 2018 2:14:18 PM FileHelper writeToFile
+INFO: Created output file out7.txt
+янв 17, 2018 2:14:18 PM FileHelper writeToFile
+INFO: Created output file result.txt
+янв 17, 2018 2:14:18 PM MainClass main
+INFO: Application stopped
+янв 17, 2018 2:18:01 PM MainClass main
+INFO: Application started
+янв 17, 2018 2:18:01 PM FileHelper parseFile
+INFO: File in7.txt successfully parsed
+янв 17, 2018 2:18:01 PM FileHelper writeToFile
+INFO: Created output file out7.txt
+янв 17, 2018 2:18:01 PM FileHelper writeToFile
+INFO: Created output file result.txt
+янв 17, 2018 2:18:01 PM MainClass main
+INFO: Application stopped
+янв 17, 2018 2:19:18 PM MainClass main
+INFO: Application started
+янв 17, 2018 2:19:18 PM FileHelper parseFile
+INFO: File in7.txt successfully parsed
+янв 17, 2018 2:19:18 PM FileHelper writeToFile
+INFO: Created output file out7.txt
+янв 17, 2018 2:19:18 PM FileHelper writeToFile
+INFO: Created output file result.txt
+янв 17, 2018 2:19:18 PM MainClass main
+INFO: Application stopped
+янв 17, 2018 2:19:44 PM MainClass main
+INFO: Application started
+янв 17, 2018 2:19:44 PM FileHelper parseFile
+INFO: File in7.txt successfully parsed
+янв 17, 2018 2:19:44 PM FileHelper writeToFile
+INFO: Created output file out7.txt
+янв 17, 2018 2:19:44 PM FileHelper writeToFile
+INFO: Created output file result.txt
+янв 17, 2018 2:19:44 PM MainClass main
+INFO: Application stopped
+янв 17, 2018 2:20:13 PM MainClass main
+INFO: Application started
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in1.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out1.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in10.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out10.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in2.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out2.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in3.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out3.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in4.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out4.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in5.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out5.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in6.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out6.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in7.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out7.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in8.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out8.txt
+янв 17, 2018 2:20:13 PM FileHelper parseFile
+INFO: File in9.txt successfully parsed
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file out9.txt
+янв 17, 2018 2:20:13 PM FileHelper writeToFile
+INFO: Created output file result.txt
+янв 17, 2018 2:20:13 PM MainClass main
+INFO: Application stopped
+янв 17, 2018 2:25:10 PM MainClass main
+INFO: Application started
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in1.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out1.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in10.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out10.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in2.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out2.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in3.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out3.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in4.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out4.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in5.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out5.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in6.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out6.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in7.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out7.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in8.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out8.txt
+янв 17, 2018 2:25:11 PM FileHelper parseFile
+INFO: File in9.txt successfully parsed
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file out9.txt
+янв 17, 2018 2:25:11 PM FileHelper writeToFile
+INFO: Created output file result.txt
+янв 17, 2018 2:25:11 PM MainClass main
+INFO: Application stopped
+янв 17, 2018 2:31:10 PM MainClass main
+INFO: Application started
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in1.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out1.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in10.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out10.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in2.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out2.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in3.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out3.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in4.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out4.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in5.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out5.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in6.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out6.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in7.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out7.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in8.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out8.txt
+янв 17, 2018 2:31:10 PM FileHelper parseFile
+INFO: File in9.txt successfully parsed
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file out9.txt
+янв 17, 2018 2:31:10 PM FileHelper writeToFile
+INFO: Created output file result.txt
+янв 17, 2018 2:31:10 PM MainClass main
+INFO: Application stopped
